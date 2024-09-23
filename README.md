@@ -1,4 +1,4 @@
-# **use-lockbodyscroll** 
+# **use-lockbodyscroll**
 
 Use useLockBodyScroll to temporarily disable scrolling on the document body.
 
