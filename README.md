@@ -1,4 +1,4 @@
-# **use-lockbodyscroll**
+# **use-lockbodyscroll3**
 
 Use useLockBodyScroll to temporarily disable scrolling on the document body.
 
@@ -7,17 +7,17 @@ Use useLockBodyScroll to temporarily disable scrolling on the document body.
 You can install the package using **npm**, **yarn**, or **pnpm**.
 
 ```bash
-pnpm add use-lockbodyscroll
+pnpm add use-lockbodyscroll3
 
-yarn install use-lockbodyscroll
+yarn install use-lockbodyscroll3
 
-npm install use-lockbodyscroll
+npm install use-lockbodyscroll3
 ```
 
 ## Usage
 
 ```tsx
-import { useLockBodyScroll } from "use-lockbodyscroll";
+import { useLockBodyScroll } from "use-lockbodyscroll3";
 
 const { lockScroll, unlockScroll } = useLockBodyScroll();
 ```
@@ -67,4 +67,4 @@ $ npm publish
 
 ## test package
 
-https://www.npmjs.com/package/use-lockbodyscroll
+https://www.npmjs.com/package/use-lockbodyscroll3
